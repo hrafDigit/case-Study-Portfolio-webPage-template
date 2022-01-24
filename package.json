@@ -1,0 +1,23 @@
+{
+  "name": "mmi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "laravel-mix": "^6.0.39",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.48.0",
+    "sass-loader": "^12.4.0"
+  },
+  "dependencies": {
+    "bulma": "^0.9.3",
+    "gsap": "^3.9.1",
+    "swiper": "^7.4.1"
+  }
+}

@@ -1,0 +1,12 @@
+.button {
+    font-weight: 700;
+    transition: all 0.25s;
+
+    &:hover { 
+        box-shadow: inset 0 -3.25em 0 0 $black;
+    }
+
+    &.is-white:hover {
+        box-shadow: inset 0 -3.25em 0 0 $white;
+    }
+}

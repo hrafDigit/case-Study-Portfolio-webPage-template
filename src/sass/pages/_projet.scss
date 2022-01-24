@@ -1,0 +1,83 @@
+/* ===================================================================
+	±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+	## CSS ##
+	2021-2022 © Achraf (aka) hrafDigit + Pierre & Marc Belletre, developer and lecturer https://pixelparfait.fr/
+    Master MMI Métiers Multimédia Interactif – Université Panthéon-Sorbonne, Paris, France
+	https://www.achrafely.fr
+		https://codepen.io/hraf
+		https://github.com/hrafdigit
+		https://www.grandjardindigital.fr
+	made from Paris (France) w/ <3
+	±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+	================================================================== */
+
+    // -- Start PORTFOLIO custom --
+.project_cards__wrapper figure .box {
+    opacity: 0;
+}
+.project_cards__wrapper .box .card {
+    height: 100%;
+    max-width: 66%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 0;
+    z-index: 99;
+    font-family: 'Lato', sans-serif;
+}
+.project_cards__wrapper .box .card .title {
+    font-weight: 400;
+    font-style: normal;
+}
+.project_cards__wrapper .box .card .subtitle {
+    font-weight: 400;
+    font-style: italic;
+}
+// -- End PORTFOLIO custom --
+
+
+// -- Start PROJECT-PAGE custom --
+@include until(768px) {
+	.columns.is-reversed-mobile {
+	display: flex;
+	flex-direction: column-reverse;
+	// background: blue;
+	}
+}
+
+// -- Begin SWIPER-Slider custom --
+// -- classic CSS --
+// .swiper-button-next, .swiper-button-prev {
+// 	width: 64px;
+// 	height: 64px;
+// 	position: absolute;
+// 	padding: 0 8px;
+// 	color: white;
+// 	background-color: black;
+// }
+// .swiper-button-next {
+// 	right: 0;
+// }
+// .swiper-button-prev {
+// 	left: 0;
+// }
+// -- Sass CSS --
+@mixin button($button: black) {
+	width: 64px;
+	height: 64px;
+	position: absolute;
+	padding: 0 8px;
+	color: white;
+	background: $button;
+}
+.swiper-button-next {
+	@include button;
+	right: 0;
+}
+.swiper-button-prev {
+	@include button;
+	left: 0;
+}
+// -- End SWIPER-Slider custom --
+
+// -- End PROJECT-PAGE custom --
