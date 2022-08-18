@@ -13,10 +13,10 @@ Single webpage template for the "Interactive Multimedia" Master's Degree (at Uni
 Under Master's Degree Director, the website redesign was first carried out by the entire class ("Frutiger" 2021-2022) as design work : UX, UI, graphic-design, etc. Then it became an assignment for each student at the “Advanced Front-end development" course during the Master's Degree.
 
 Mandatory for both the "Portfolio" and the "Project" page :
-- coded as WordPress [“page.php”] (https://developer.wordpress.org/themes/template-files-section/page-template-files/#page-templates-within-the-template-hierarchy)
+- coded as WordPress [“page.php”](https://developer.wordpress.org/themes/template-files-section/page-template-files/#page-templates-within-the-template-hierarchy)
 - responsive (desktop, tablet and mobile)
-- using [Bulma framework] (https://bulma.io/)
-- using [Gsap library] (https://greensock.com/gsap/)
+- using [Bulma framework](https://bulma.io/)
+- using [Gsap library](https://greensock.com/gsap/)
 - at least one animation per page
 
 ## Other CodeSandbox repositories
