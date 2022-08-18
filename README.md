@@ -17,3 +17,16 @@ Mandatory for both the "Portfolio" and the "Project
 – using Gsap library
 – at least one animation per page
 – responsive (desktop, tablet and mobile)
+
+## Other CodeSandbox repositories
+
+CodeSandbox consists of several separate servers, some of which are open
+sourced.
+
+- Client: the web application
+- Server: the [Phoenix](https://github.com/phoenixframework/phoenix) API server
+- Nginx: Nginx config files
+- [Git Extractor](https://github.com/codesandbox/codesandbox-importers):
+  responsible for extracting the source from a GitHub repository
+- [CLI](https://github.com/codesandbox/codesandbox-importers/tree/master/packages/cli):
+  the CLI to upload a CodeSandbox project from your command line
