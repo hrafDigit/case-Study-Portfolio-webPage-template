@@ -6,11 +6,13 @@
   </a>
 </p>
 
-Single webpage template for the "Interactive Multimedia" Master's Degree (at Université Panthéon-Sorbonne, Paris, FR) website, powered by WordPress CMS.
+Single page WordPress template for the "Interactive Multimedia" Master's Degree at Université Panthéon-Sorbonne, Paris, FR.
 
 ## General Information
 
-Under Master's Degree Director supervision, the website redesign was first carried out by the entire class ("Frutiger" 2021-2022) as design work : UX, UI, graphic-design, etc. Then it became an assignment for each student at the “Advanced Front-end development" course during the Master's Degree.
+Under Master's Degree Director supervision, the website redesign was first carried out by the entire class ("Frutiger" 2021-2022) as design work : UX, UI, graphic-design, etc. Then it became an assignment for each student at the “Advanced Front-end development" course during the Master's Degree. I choose to code the "Portfolio" and the "Project" pages template.
+
+## Other CodeSandbox repositories
 
 Mandatory for both the "Portfolio" and the "Project" page :
 - coded as WordPress [“page.php”](https://developer.wordpress.org/themes/template-files-section/page-template-files/#page-templates-within-the-template-hierarchy)
