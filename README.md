@@ -16,20 +16,20 @@ Supervised by the Master's Degree Director, the website redesign was first carri
 
 Mandatory for both the "Portfolio" and the "Project" page :
 - coded as WordPress [“page.php”](https://developer.wordpress.org/themes/template-files-section/page-template-files/#page-templates-within-the-template-hierarchy)
-- responsive (desktop, tablet and mobile)
-- using [Bulma framework](https://bulma.io/)
-- using [Gsap library](https://greensock.com/gsap/)
-- at least one animation per page
+- must be responsive (desktop, tablet and mobile)
+- must use CSS3 [Bulma framework](https://bulma.io/) 
+- must use JavaScript [Gsap library](https://greensock.com/gsap/)
+- must have at least one animation per page
 
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/hrafDigit/case-Study-Portfolio-webPage-template
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd case-Study-Portfolio-webPage-template
 
 # Install dependencies
 $ npm install
@@ -40,13 +40,8 @@ $ npm start
 
 ## Credits
 
-This software uses the following open source packages:
-
-- [Electron](http://electron.atom.io/)
 - [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [Bulma](https://bulma.io/)
+- [Gsap library](https://greensock.com/gsap/)
+
 CodeSandbox consists of several separate servers, some of which are open sourced.
