@@ -1,7 +1,7 @@
 <h1 align="center">Case Study : Portfolio web-page</h1>
 <br>
 <p align="center">
-  <a href="https://gitpoint.co/">
+  <a href="[https://gitpoint.co/](https://multimedia-sorbonne.com/)">
     <img alt="Case Study : Portfolio web-page" title="Case Study : Portfolio web-page" src="/readme_img/portfolio-page-desktop.png" width="759">
   </a>
 </p>
