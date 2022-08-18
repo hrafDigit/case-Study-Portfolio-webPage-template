@@ -10,13 +10,14 @@ Single webpage template for the "Interactive Multimedia" Master's Degree (at Uni
 
 Under Master's Degree Director, the redesign was first carried out by the entire "Frutiger" class 2021-2022 as design work (UX, UI, graphic-design, etc.). Then it became an assignment for each student at the “Advanced Front-end development" course during the Master's Degree.
 
+## Other CodeSandbox repositories
 
 Mandatory for both the "Portfolio" and the "Project 
-– coded as WordPress “page.php”
-– using Bulma framework
-– using Gsap library
-– at least one animation per page
-– responsive (desktop, tablet and mobile)
+- coded as WordPress “page.php” 
+- using Bulma framework 
+- using Gsap library 
+- at least one animation per page 
+- responsive (desktop, tablet and mobile)
 
 ## Other CodeSandbox repositories
 
